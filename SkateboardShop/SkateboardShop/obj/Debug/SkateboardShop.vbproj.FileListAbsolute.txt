@@ -1,0 +1,16 @@
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\bin\Debug\SkateboardShop.exe.config
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\bin\Debug\SkateboardShop.exe
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\bin\Debug\SkateboardShop.pdb
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\bin\Debug\SkateboardShop.xml
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.vbprojResolveAssemblyReference.cache
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Form1.resources
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Form2.resources
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Resources.resources
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.vbproj.GenerateResource.Cache
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.exe
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.xml
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.pdb
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\bin\Debug\SkateboardShop.accdb
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Form3.resources
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Form4.resources
+C:\Users\samyk\Documents\Programming\Projects\SkateboardShop\SkateboardShop\obj\Debug\SkateboardShop.Form5.resources
